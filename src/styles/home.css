@@ -1,0 +1,10 @@
+h4 {
+    color: #787878;
+    font-style: oblique;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.card {
+    box-shadow: 1px 1px 5px #839dd2;
+    border: none;
+}
